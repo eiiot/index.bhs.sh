@@ -8,7 +8,7 @@ export default function Home() {
       <Link href="https://fire.bhs.sh">🔥 fire.bhs.sh</Link>
       <Link href="https://ibgrades.bhs.sh">📊 ibgrades.bhs.sh</Link>
       <Link href="https://schedules.bhs.sh">🗓️ schedules.bhs.sh</Link>
-      <Link href="https://pomodoro.bhs.sh">🕰️ countdown.bhs.sh</Link>
+      <Link href="https://countdown.bhs.sh">🕰️ countdown.bhs.sh</Link>
       <Link href="https://auth.bhs.sh">🔒 auth.bhs.sh</Link>
       <Link href="https://ahc.bhs.sh">🏛️ ahc.bhs.sh</Link>
       <span className="cursor-wait">
