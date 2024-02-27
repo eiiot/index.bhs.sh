@@ -5,6 +5,7 @@ export default function Home() {
     <main className="flex flex-col items-center justify-center min-h-screen py-2">
       <Link href="https://rmss.bhs.sh">🍎 rmss.bhs.sh</Link>
       <Link href="https://testing.bhs.sh">🎓 testing.bhs.sh</Link>
+      <Link href="https://calc.bhs.sh">🪴 calc.bhs.sh</Link>
       <Link href="https://fire.bhs.sh">🔥 fire.bhs.sh</Link>
       <Link href="https://ibgrades.bhs.sh">📊 ibgrades.bhs.sh</Link>
       <Link href="https://schedules.bhs.sh">🗓️ schedules.bhs.sh</Link>
