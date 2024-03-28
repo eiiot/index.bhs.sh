@@ -10,6 +10,8 @@ export default function Home() {
       <Link href="https://ibgrades.bhs.sh">📊 ibgrades.bhs.sh</Link>
       <Link href="https://schedules.bhs.sh">🗓️ schedules.bhs.sh</Link>
       <Link href="https://countdown.bhs.sh">🕰️ countdown.bhs.sh</Link>
+      <Link href="https://ivy.bhs.sh">🌿 ivy.bhs.sh</Link>
+      <Link href="https://ivyday.bhs.sh">🎓 ivyday.bhs.sh</Link>
       <Link href="https://map.bhs.sh">🗺️ map.bhs.sh</Link>
       <Link href="https://auth.bhs.sh">🔒 auth.bhs.sh</Link>
       <Link href="https://ahc.bhs.sh">🏛️ ahc.bhs.sh</Link>
