@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen py-2">
-      <Link href="https://ivy.bhs.sh">📍 findmy.bhs.sh</Link>
+      <Link href="https://findmy.bhs.sh">📍 findmy.bhs.sh</Link>
       <Link href="https://rmss.bhs.sh">🍎 rmss.bhs.sh</Link>
       <Link href="https://testing.bhs.sh">🎓 testing.bhs.sh</Link>
       <Link href="https://calc.bhs.sh">🪴 calc.bhs.sh</Link>
